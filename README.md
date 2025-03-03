@@ -6,8 +6,8 @@ GA: G-DXYJBX6BH8
 
 # AZ-2007 Reference
 :::success
-Date: 20250220
-Course ID: 75529
+Date: 20250304
+Course ID: 75945
 :::
 
 :::info
@@ -43,10 +43,13 @@ Valid for 6 months
 -->
 ### Instruction
 [AZ-2007 Labs EN](https://microsoftlearning.github.io/AZ-2007-Accelerate-app-development-by-using-GitHub-Copilot/)
-[AZ-2007 Labs ZH](https://github.com/MicrosoftLearning/AZ-2007-Accelerate-app-development-by-using-GitHub-Copilot.zh-cn)
-[AZ-2007 Lab files](https://github.com/MicrosoftLearning/AZ-2007-Accelerate-app-development-by-using-GitHub-Copilot/archive/refs/heads/master.zip)
+[AZ-2007 Lab files](https://raw.githubusercontent.com/MicrosoftLearning/APL-2007-Accelerate-app-development-by-using-GitHub-Copilot/master/LearnModuleExercises/Downloads/SampleApps.zip)
 
 <!--
+
+[AZ-2007 Labs ZH](https://github.com/MicrosoftLearning/AZ-2007-Accelerate-app-development-by-using-GitHub-Copilot.zh-cn)
+
+
 #### Lab Videos
 [Lab Videos for AZ-2007 (Azure Pass version)](https://doc.yu.money/s/mRglULNdD)
 
@@ -63,9 +66,24 @@ https://mslabs.cloudguides.com/guides/AZ-2007%20Exam%20Guide%20-%20Microsoft%20A
 ## Course Info
 ![Course](https://mdcontent.yu.money/contents/2d3de7d70f69c2841a1b89800.png)
 
-<!--
 ## Links
--->
+[Subscription plans for GitHub Copilot](https://docs.github.com/en/copilot/about-github-copilot/subscription-plans-for-github-copilot)
+
+[Reviewing user activity data for Copilot in your organization](https://docs.github.com/en/copilot/managing-copilot/managing-github-copilot-in-your-organization/reviewing-activity-related-to-github-copilot-in-your-organization/reviewing-user-activity-data-for-copilot-in-your-organization)
+
+[Using GitHub Copilot code review](https://docs.github.com/en/copilot/using-github-copilot/code-review/using-copilot-code-review)
+
+[Asking GitHub Copilot questions in your IDE](https://docs.github.com/en/copilot/using-github-copilot/copilot-chat/asking-github-copilot-questions-in-your-ide)
+
+[Custom instructions for GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/copilot-customization)
+
+[GitHub Copilot Internal](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
+
+[GitHub Copilot: The agent awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
+
+[Cline – Autonomous coding agent right in your IDE](https://github.com/cline/cline)
+
+[GitHub Copilot Workspace](https://copilot-workspace.githubnext.com/)
 
 <!--
 ## Whiteboard
