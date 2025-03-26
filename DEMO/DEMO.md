@@ -45,6 +45,46 @@
 10. 程式碼必須包含適當的自動化 UI 測試。
 ```
 
+### 20250326
+``` markdown
+幫我使用 Python 建立一個 WEB 用來做股票分析工具。
+ 
+這個 WEB 需要有以下功能：
+- 輸入股票代碼，顯示該股票的即時股價。
+  - 顯示該股票的歷史股價走勢圖。
+ 
+系統的網站架構與設計應該要有:
+- 要使用 python 的虛擬環境來開發。
+  - 虛擬環境的名稱為 stockenv。
+- 使用 Python 3.13 以上的版本。
+- 使用 Flask 作為後端框架。
+- 提供 README.md 檔案，說明如何啟動網站等常見 README 內容。
+  - 要包含如何執行各種不同的測試。
+- 程式碼必須包含適當的註解。
+  - 所有的 Class 與 Method 一定要有註解
+  - 所有的變數與參數一定要有註解
+  - 適當地為所有程式碼加入註解
+- 程式碼必須包含適當的單元測試。
+  - 測試框架要使用 pytest
+- 使用 Bootstrap 5 來設計網站。
+  - 使用 fontawesome 來設計網站。
+  - 畫面要華麗一點
+  - 必要時可以加入一些動畫效果。
+  - 畫面的整體色調要繽紛一點
+  - 要有 Dark Mode 與 Light Mode 的切換功能。
+- 使用 jsdeliver CDN 來載入 Bootstrap 5 與 fontawesome。
+ 
+其他要求:
+- Update relevant documentation in /docs when modifying features
+- Keep README.md in sync with new capabilities
+- Maintain changelog entries in CHANGELOG.md
+- Write implementation plan to .md files in /docs/implementation
+  - Naming convention: <date>-<feature-name>.md
+- Each step should be committed separately to preserve history.
+ 
+先不要執行，請先產出一個執行計畫與檔案文件目錄結構給我看
+```
+
 ## 樂透集資系統
 ### 20250305
 ``` markdown
@@ -131,7 +171,7 @@
 - 使用 CDN 來載入 Bootstrap 5 與 fontawesome。
 ```
 
-## 
+## 午餐吃甚麼
 ### 20250311
 ``` markdown
 幫我建立一個 JAVA WEB 專案，網站的主要功能為午餐吃甚麼。
