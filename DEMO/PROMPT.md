@@ -9,7 +9,14 @@ Calculate the BMI and get the BMI category.
 Then display the result in a user-friendly format.
 ```
 
+## Refactor the Code
+``` markdown
+@workspace /new 幫我將這個 BMI 計算器的程式碼重構，並且要符合 Clean Code 的原則
+```
 
+``` markdown
+請幫我找出所有潛在的安全問題，並一一列出解法與程式碼；每一個修正的程式碼片段也請單獨列出讓我可以選擇要套用那些解法
+```
 
 ## Unit Test Prompt
 ``` markdown
