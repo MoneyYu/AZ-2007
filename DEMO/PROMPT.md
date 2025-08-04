@@ -55,7 +55,10 @@ Java 請使用 JUnit 來進行單元測試
 
 ## Beautify Prompt
 ``` markdown
-#codebase 請幫我美化 WPF 應用程式，讓它看起來更好看，並且要符合 WPF 的設計規範
+#codebase #codebase 請幫我美化 WPF 應用程式，讓它看起來更好看，並且要符合 WPF 的設計規範，若有變更 xaml 的 name，則 .cs 也要記得更新；若在 .cs 有加入一些新的 control，xaml 也記得要加入，並確保名稱同步。
+
+請使用這個 framework: https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit
+
 #codebase 幫我美化這個 WPF 應用程式，請使用簡體中文回復
 ```
 
