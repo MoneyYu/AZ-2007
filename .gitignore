@@ -32,3 +32,38 @@ override.tf.json
 .terraformrc
 terraform.rc
 .terraform.lock.hcl
+
+# .NET build outputs
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Packages and logs
+*.log
+*.nupkg
+*.snupkg
+TestResult*/
+
+# Python artifacts
+**/__pycache__/
+**/*.py[cod]
+**/.pytest_cache/
+**/.venv/
+**/venv/
+**/env/
+**/.env
+**/.env.*
+**/.coverage
+.coverage.*
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db

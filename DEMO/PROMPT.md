@@ -34,6 +34,8 @@ Java 請使用 JUnit 來進行單元測試
 每個單元測試要獨立的 function
 
 請確保所有的單元測試都要符合 3A 原則，不可省略
+
+並詳細說明執行單元測試的步驟與指令
 ```
 
 # WPF Async Downloader
